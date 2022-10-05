@@ -1,7 +1,7 @@
 # Hi there, I'm Jason Woitalla 👋
 
 ## 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/jason-woitalla/) | [Website](jasonwoitalla.com) | [jason.woitalla@gmail.com](jason.woitalla@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jason-woitalla/) | [Website](https://www.jasonwoitalla.com) | [jason.woitalla@gmail.com](mailto@jason.woitalla@gmail.com)
 
 ## 🌱 I’m currently learning
 <img src="./images/react.svg" width=32>&nbsp; &nbsp;
