@@ -5,15 +5,13 @@
 
 ## 🌱 I’m currently learning
 <img src="./images/react.svg" width=32>&nbsp; &nbsp;
-Through development of my website <a href="jasonwoitalla.com">jasonwoitalla.com</a> I'm gaining vital experience with react.
+Through development of my website [jasonwoitalla.com](jasonwoitalla.com) I'm gaining vital experience with react.
 <br><br>
 <img src="./images/blender.svg" width=32>&nbsp; &nbsp;
 I'm exploring my interest in 3D environments by learning blender. Stay tuned for updates on this journey though my progress repo.
 
 ## 💻 Programming Languages
-<img src="./images/c.svg" width=64>
-<img src="./images/cpp.svg" width=64>
-<img src="./images/c-sharp.svg" width=64>
+|<img src="./images/c.svg" width=64>|<img src="./images/cpp.svg" width=64>|<img src="./images/c-sharp.svg" width=64>
 <img src="./images/handlebars.svg" width=64>
 <img src="./images/html.svg" width=64>
 <img src="./images/java.svg" width=64>
